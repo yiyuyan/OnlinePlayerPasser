@@ -1,0 +1,5 @@
+name: OnlinePlayerPasser
+version: '${project.version}'
+main: cn.ksmcbrigade.opps.OnlinePlayerPasser
+api-version: '1.16'
+load: STARTUP
